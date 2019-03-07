@@ -7,6 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.archive__item-title{margin-top:0;}
+.archive__item-excerpt{display:none;}
 @media (min-width: 80em){
 html {font-size: 20px !important;}
 #main{max-width: 1008px !important;}
