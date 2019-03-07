@@ -1,6 +1,7 @@
 ---
 title: "Layout: Header Image and Text Readability"
 excerpt: "Layout: Header Image and Text Readability"
+classes: wide
 header:
   image: /assets/images/album/Elton-John-Diamonds-Deluxe.jpg
 categories:
