@@ -8,8 +8,9 @@
 @import "minimal-mistakes"; // main partials
 
 @media (min-width: 80em){
+html {font-size: 20px !important;}
 #main{max-width: 1008px !important;}
-.masthead__inner-wrap {max-width: 1008px; !important;}
+.masthead__inner-wrap {max-width: 1008px !important;}
 .page{padding-right: 0px !important;} 
 .archive{padding-right: 0px !important;}
 }
