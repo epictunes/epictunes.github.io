@@ -9,6 +9,8 @@
 
 @media (min-width: 80em){
 #main{max-width: 1008px !important;}
+.masthead__inner-wrap {max-width: 1008px; !important;}
+.archive, .page{padding-right: 0px !important;}
 }
 .page {
 	padding-right: 0px !important;
