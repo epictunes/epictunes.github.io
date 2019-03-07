@@ -7,6 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+body{background: #e4e4e4;}
 a {text-decoration: none;}
 h2 {font-size: 1.1em !important;font-weight: 400 !important;}
 .archive__subtitle{background: #3462a0;color: #fff !important;}
