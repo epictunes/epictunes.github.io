@@ -34,6 +34,8 @@ html {font-size: 20px !important;}
 #main{max-width: 1008px !important;}
 .masthead__inner-wrap {max-width: 1008px !important;padding: 1em 1em 0;}
 .page{padding-right: 0px !important;}
+.archive {width: calc(100% - 280px) !important;}
+.sidebar {width: calc(275px - 1em) !important;}
 }
 @media (min-width: 80em){
 .grid__item .archive__item-excerpt {display: none !important;}
