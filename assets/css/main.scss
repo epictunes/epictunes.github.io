@@ -7,43 +7,38 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-body{background: #e4e4e4;background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) 200px);color:#141414 !important;}
-a {text-decoration: none;}
-.masthead{border-bottom: none !important;}
-.greedy-nav{background: #3462a0 !important;}
-.greedy-nav a.site-title {margin-left: 1rem !important;}
-.greedy-nav a{color: #ffffff !important;}
+body{background:#e4e4e4;background-image:linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) 200px);color:#141414 !important}
+a {text-decoration:none}
+.masthead{border-bottom: none !important}
+.greedy-nav{background:#3462a0 !important}
+.greedy-nav a.site-title{margin-left:1rem !important}
+.greedy-nav a{color:#ffffff !important;}
 .greedy-nav .hidden-links a{color:#3462a0 !important}
-.search__toggle{color: #fff !important;background-color: #3462a0 !important;}
-.navicon, .navicon:before, .navicon:after{background: #fff !important;}
-.greedy-nav__toggle:hover.close .navicon {background: transparent !important;}
-.close .navicon {background: transparent !important;}
-
-.archive{background: rgb(244, 244, 244);padding: 20px !important;}
-.archive__item {border-bottom: 1px solid #ddd;}
-.archive__subtitle{background: #3462a0;color: #ffffff !important;font-weight: 400;padding:0.25em 0.5em;margin: 0 !important}
-.archive__item-title{margin-top:0;margin-bottom: 2px !important;font-size: 1em;font-weight: 400;}
-.archive__item-title a{color: #000;}
-.list__item .page__meta, .list__item .comment__date{margin: 0 0 10px !important;}
-.archive__item-excerpt{display:none;}
-
-.page__title+.page__meta, .page__title+.comment__date {margin-top: 0.5em !important;}
-.page__title {margin: 0 !important;}
-.page .page__inner-wrap{background: rgb(244, 244, 244);padding: 20px;}
-
+.search__toggle{color:#fff !important;background-color:#3462a0 !important}
+.navicon, .navicon:before, .navicon:after{background:#fff !important}
+.greedy-nav__toggle:hover.close .navicon{background:transparent !important}
+.close .navicon{background:transparent !important}
+.archive{background:rgb(244, 244, 244);padding:20px !important}
+.archive__item {border-bottom:1px solid #ddd}
+.archive__subtitle{background:#3462a0;color:#ffffff !important;font-weight:400;padding:0.25em 0.5em 0.45em;margin:0 !important}
+.archive__item-title{margin-top:0;margin-bottom:2px !important;font-size:1em;font-weight:400}
+.archive__item-title a{color:#000}
+.list__item .page__meta, .list__item .comment__date{margin:0 0 10px !important}
+.archive__item-excerpt{display:none}
+.page__title+.page__meta, .page__title+.comment__date{margin-top:0.5em !important}
+.page__title{margin:0 !important}
+.page .page__inner-wrap{background:rgb(244, 244, 244);padding:20px}
 .back-to-top{color:#b93329 !important}
-table{font-size: 1em !important}
+table{font-size:1em !important}
 @media (min-width: 80em){
-html {font-size: 17px !important;}
-#main{max-width: 1008px !important;}
-.masthead__inner-wrap {max-width: 1008px !important;padding: 1em 1em 0;}
-.breadcrumbs ol {width: calc(100% - 280px);margin-bottom: 0;margin-top: 2em;}
-.page{padding-right: 0px !important;width: calc(100% - 280px) !important;}
-.page__related {width: calc(100% - 280px) !important;}
-.archive {width: calc(100% - 280px) !important;}
-.sidebar {width: calc(275px - 1em) !important;}
-.breadcrumbs {max-width: 1008px !important;}
-}
-@media (min-width: 80em){
-.grid__item .archive__item-excerpt {display: none !important;}
+html{font-size:17px !important}
+#main{max-width:1008px !important}
+.masthead__inner-wrap{max-width:1008px !important;padding:1em 1em 0}
+.breadcrumbs ol{width:calc(100% - 280px);margin-bottom:0;margin-top:2em}
+.page{padding-right:0px !important;width:calc(100% - 280px) !important}
+.page__related{width:calc(100% - 280px) !important}
+.archive{width:calc(100% - 280px) !important}
+.sidebar{width:calc(275px - 1em) !important}
+.breadcrumbs{max-width:1008px !important}
+.grid__item .archive__item-excerpt{display:none !important}
 }
