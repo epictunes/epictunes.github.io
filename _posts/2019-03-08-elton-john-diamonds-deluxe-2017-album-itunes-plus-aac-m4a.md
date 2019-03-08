@@ -3,7 +3,7 @@ title: "Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]"
 excerpt: "Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A] - Epictunes"
 header:
   teaser: "assets/images/album/Elton-John-Diamonds-Deluxe.jpg"
-  categories:
+categories:
   - Album
   - Pop
 tags: 
