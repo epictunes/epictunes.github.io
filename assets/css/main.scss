@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-body{background: #e4e4e4;background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) 200px);}
+body{background: #e4e4e4;background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) 200px);color:#141414 !important;}
 a {text-decoration: none;}
 .masthead{border-bottom: none !important;}
 .greedy-nav{background: #3462a0 !important;}
