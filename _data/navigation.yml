@@ -23,7 +23,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Category"
-    url: /category-archive/
+    url: /categories/
   - title: "Archive"
     url: /year-archive/
   - title: "Terms &amp; Privacy Policy"
