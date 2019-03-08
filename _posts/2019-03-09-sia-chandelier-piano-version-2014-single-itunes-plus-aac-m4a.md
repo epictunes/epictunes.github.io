@@ -3,11 +3,10 @@ title: "Sia - Chandelier (Piano Version) (2014) - Single [ITunes Plus AAC M4A]"
 excerpt: "Sia - Chandelier (Piano Version) (2014) - Single [ITunes Plus AAC M4A] - Epictunes"
 header:
   teaser: "assets/images/single/Sia-Chandelier-Piano-Version-Single.jpg"
-categories:
-  - Single
-  - Pop
 tags: 
   - Sia
+  - Single
+  - Pop
 ---
 
 <figure>
