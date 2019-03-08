@@ -14,14 +14,14 @@ a {text-decoration: none;}
 .greedy-nav a.site-title {margin-left: 1rem !important;}
 .greedy-nav a{color: #ffffff !important;}
 
-.archive{background: rgb(244, 244, 244);padding: 0 25px 25px !important;}
+.archive{background: rgb(244, 244, 244);padding: 15px !important;}
 .archive__item {border-bottom: 1px solid #ddd;}
 .archive__subtitle{background: #3462a0;color: #ffffff !important;font-weight: 400;padding-left: 0.5em;}
 .archive__item-title{margin-top:0;margin-bottom: 2px !important;font-size: 1em;font-weight: 400;}
 .list__item .page__meta, .list__item .comment__date{margin: 0 0 10px !important;}
 .archive__item-excerpt{display:none;}
 
-.page .page__inner-wrap{background: rgb(244, 244, 244);}
+.page .page__inner-wrap{background: rgb(244, 244, 244);padding: 15px;}
 @media (min-width: 80em){
 html {font-size: 20px !important;}
 #main{max-width: 1008px !important;}
