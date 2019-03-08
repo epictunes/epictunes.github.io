@@ -10,6 +10,8 @@ tags:
   - Elton-John
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/album/Elton-John-Diamonds-Deluxe.jpg" alt="">
+
 Genres: Pop
 <br />
 Released: Nov 10, 2017
