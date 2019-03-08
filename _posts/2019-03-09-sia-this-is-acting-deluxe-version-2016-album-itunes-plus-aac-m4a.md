@@ -60,5 +60,5 @@ Download Links
 <br />
 [Google Drive](#){: .btn .btn--info}
 
-**Watch out!** Download : [Google Drive](http://sluppend.com/3Igs)
-{: .notice--info}
+#<h2>Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]</h2>
+:   Download : [Google Drive](http://twiriock.com/5R59)
