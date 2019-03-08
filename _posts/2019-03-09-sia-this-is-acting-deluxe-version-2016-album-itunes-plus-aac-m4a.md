@@ -50,13 +50,4 @@ Size: 146 MB
 <tr> <td>19</td> <td>The Greatest</td> <td>3:30</td> </tr>
 </tbody> </table>
 
-<h2>Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]</h2>
-[Google Drive](#){: .btn .btn--info}
-{: style="text-align: center;"}
-
-
-<strong>Download : </strong>[Google Drive](http://twiriock.com/5R59)
-
-
-#Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]
-:   Download : [Google Drive](http://twiriock.com/5R59)
+<strong>Download : </strong>[Google Drive](http://twiriock.com/5QYa "Sia - This Is Acting (Deluxe Version) (2016) - Album [ITunes Plus AAC M4A]")
