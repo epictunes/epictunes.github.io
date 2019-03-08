@@ -20,6 +20,8 @@ a {text-decoration: none;}
 .archive__item-title{margin-top:0;margin-bottom: 2px !important;font-size: 1em;font-weight: 400;}
 .list__item .page__meta, .list__item .comment__date{margin: 0 0 10px !important;}
 .archive__item-excerpt{display:none;}
+
+.page .page__inner-wrap{background: rgb(244, 244, 244);}
 @media (min-width: 80em){
 html {font-size: 20px !important;}
 #main{max-width: 1008px !important;}
