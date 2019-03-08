@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Epictunes"
 title_separator          : "-"
 name                     : "Epictunes"
-description              : "iTunes Plus AAC M4A Music."
+description              : "Download Purchased AAC audio file [iTunes Plus AAC M4A]"
 url                      : "https://epictunes.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "epictunes/epictunes.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Epictunes"
   avatar           : "/assets/images/Epictunes.png"
-  bio              : "iTunes Plus AAC M4A Music."
+  bio              : "Download Purchased AAC audio file [iTunes Plus AAC M4A]"
   location         : "https://epictunes.github.io/"
   email            :
   links:
