@@ -9,9 +9,12 @@
 
 body{background: #e4e4e4;}
 a {text-decoration: none;}
+.greedy-nav{background: #3462a0 !important;}
+.greedy-nav a{color: #ffffff !important;}
 h2 {font-size: 1.1em !important;font-weight: 400 !important;}
 .archive__subtitle{background: #3462a0;color: #ffffff !important;}
-.archive__item-title{margin-top:0;}
+.archive__item-title{margin-top:0;margin-bottom: 2px !important;}
+.list__item .page__meta, .list__item .comment__date{margin: 0 0 10px !important;}
 .archive__item-excerpt{display:none;}
 @media (min-width: 80em){
 html {font-size: 20px !important;}
