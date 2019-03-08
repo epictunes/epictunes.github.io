@@ -36,6 +36,7 @@ html {font-size: 20px !important;}
 .page{padding-right: 0px !important;}
 .archive {width: calc(100% - 280px) !important;}
 .sidebar {width: calc(275px - 1em) !important;}
+.breadcrumbs {max-width: 1008px !important;}
 }
 @media (min-width: 80em){
 .grid__item .archive__item-excerpt {display: none !important;}
