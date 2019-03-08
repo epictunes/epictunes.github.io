@@ -11,11 +11,16 @@ tags:
 ---
 
 Genres: Pop
+
 Released: Nov 10, 2017
+
 A Virgin EMI Records Release; This Compilation ℗ 2017 Universal Music Operations Limited
 
+
 51 Songs, 3 Hours 51 Minutes
+
 Format: Purchased AAC audio file (.m4a)
+
 Size: 467 MB
 
 ### Figures (for images or video)
