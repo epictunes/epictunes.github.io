@@ -55,11 +55,8 @@ Size: 146 MB
 {: style="text-align: center;"}
 
 
-Download : [Google Drive](http://twiriock.com/5R59)
+<strong>Download : </strong>[Google Drive](http://twiriock.com/5R59)
 
-Download Links
-<br />
-[Google Drive](#){: .btn .btn--info}
 
 #Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]
 :   Download : [Google Drive](http://twiriock.com/5R59)
