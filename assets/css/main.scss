@@ -18,7 +18,7 @@ a {text-decoration:none}
 .navicon, .navicon:before, .navicon:after{background:#fff !important}
 .greedy-nav__toggle:hover.close .navicon{background:transparent !important}
 .close .navicon{background:transparent !important}
-.archive{background:rgb(244, 244, 244);padding:1em !important}
+.archive{background:rgb(244, 244, 244);padding:.5em !important}
 .archive__item {border-bottom:1px solid #ddd}
 .archive__subtitle{background:#3462a0;color:#ffffff !important;font-weight:400;padding:0.25em 0.5em 0.45em;margin:0 !important}
 .archive__item-title{margin-top:0;margin-bottom:2px !important;font-size:1em;font-weight:400}
@@ -27,7 +27,7 @@ a {text-decoration:none}
 .archive__item-excerpt{display:none}
 .page__title+.page__meta, .page__title+.comment__date{margin-top:0.5em !important}
 .page__title{margin:0 !important}
-.page .page__inner-wrap{background:rgb(244, 244, 244);padding:1em}
+.page .page__inner-wrap{background:rgb(244, 244, 244);padding:.5em}
 .back-to-top{color:#b93329 !important}
 table{font-size:1em !important}
 @media (min-width: 80em){
@@ -37,7 +37,8 @@ html{font-size:17px !important}
 .breadcrumbs ol{width:calc(100% - 280px);margin-bottom:0;margin-top:2em}
 .page{padding-right:0px !important;width:calc(100% - 280px) !important}
 .page__related{width:calc(100% - 280px) !important}
-.archive{width:calc(100% - 280px) !important;padding:.5em !important}
+.archive{width:calc(100% - 280px) !important;padding:1em !important}
+.page .page__inner-wrap{padding:1em}
 .sidebar{width:calc(275px - 1em) !important}
 .breadcrumbs{max-width:1008px !important}
 .grid__item .archive__item-excerpt{display:none !important}
