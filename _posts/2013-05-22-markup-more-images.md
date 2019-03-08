@@ -1,15 +1,22 @@
 ---
-title: "Markup: Another Post with Images"
-excerpt: "Examples and code for displaying images in posts."
+title: "Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A]"
+excerpt: "Elton John - Diamonds (Deluxe) (2017) - Album [iTunes Plus AAC M4A] - Epictunes"
 header:
-  teaser: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
+  teaser: "assets/images/album/Elton-John-Diamonds-Deluxe.jpg"
+  categories:
+  - Album
+  - Pop
 tags: 
-  - sample post
-  - images
-  - test
+  - Elton-John
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Genres: Pop
+Released: Nov 10, 2017
+A Virgin EMI Records Release; This Compilation ℗ 2017 Universal Music Operations Limited
+
+51 Songs, 3 Hours 51 Minutes
+Format: Purchased AAC audio file (.m4a)
+Size: 467 MB
 
 ### Figures (for images or video)
 
