@@ -69,8 +69,8 @@ Size: 146 MB
 ```
 
 
-[link](http://twiriock.com/5QYa "Google Drive")
-[Google Drive](http://twiriock.com/5R59)
+
+Download : [Google Drive](http://twiriock.com/5R59)
 
 
 [Google Drive](#){: .btn .btn--info}
