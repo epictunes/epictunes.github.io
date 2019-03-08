@@ -16,9 +16,8 @@ a {text-decoration: none;}
 .greedy-nav .hidden-links a{color:#3462a0 !important}
 .search__toggle{color: #fff !important;background-color: #3462a0 !important;}
 .navicon, .navicon:before, .navicon:after{background: #fff !important;}
-.greedy-nav__toggle:hover.close .navicon {
-    background: transparent !important;
-}
+.greedy-nav__toggle:hover.close .navicon {background: transparent !important;}
+.close .navicon {background: transparent !important;}
 
 .archive{background: rgb(244, 244, 244);padding: 15px !important;}
 .archive__item {border-bottom: 1px solid #ddd;}
